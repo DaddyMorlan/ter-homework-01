@@ -28,3 +28,17 @@
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.5%20apply.png)
 
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.5%20ps.png)
+
+пункт 6:
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.6%20code.png)
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.6%20autoapprove.png)
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.6%20ps.png)
+
+Данный ключ опасен тем, что команда применяется без дополнительного подтверждения, а значит не предостерегает от непреднамеренных изменений
+
+Ключ может пригодиться для автоматизации развертывания, например, в CI/CD пайплайне или каком-либо скрипте, а также для тестовых сред, которые часто подвергаются изменениям
+
+пункт 7:
