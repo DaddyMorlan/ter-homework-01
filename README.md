@@ -35,7 +35,7 @@
 
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/6%20approve.png)
 
-![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.6%20ps.png)
+![]([https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.6%20ps.png](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/6%20ps.png))
 
 Данный ключ опасен тем, что команда применяется без дополнительного подтверждения, а значит не предостерегает от непреднамеренных изменений
 
