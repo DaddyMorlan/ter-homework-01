@@ -4,5 +4,6 @@
 пункт 2:
 ***.tfstate
 *.tfstate.***
+
 пункт 3:
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.3.png)
