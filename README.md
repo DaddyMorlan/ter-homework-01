@@ -22,3 +22,9 @@
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.4%20code.png)
 
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.4%20validate.png)
+
+пункт 5:
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.5%20apply.png)
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.5%20ps.png)
