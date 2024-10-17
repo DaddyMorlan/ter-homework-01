@@ -42,3 +42,9 @@
 Ключ может пригодиться для автоматизации развертывания, например, в CI/CD пайплайне или каком-либо скрипте, а также для тестовых сред, которые часто подвергаются изменениям
 
 пункт 7:
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.7%20destroy.png)
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.7%20tfstate.png)
+
+пункт 8:
