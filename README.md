@@ -48,3 +48,9 @@
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.7%20tfstate.png)
 
 пункт 8:
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.8%20code.png)
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.8%20docs.png)
+
+keep_locally = true указывает, что image нужно оставить при destroy
