@@ -31,9 +31,9 @@
 
 пункт 6:
 
-![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.6%20code.png)
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/6%20code.png)
 
-![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.6%20autoapprove.png)
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/6%20approve.png)
 
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.6%20ps.png)
 
