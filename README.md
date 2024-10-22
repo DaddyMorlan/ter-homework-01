@@ -60,3 +60,15 @@ keep_locally = true указывает, что image нужно оставить
 пункт 1:
 
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/2.1%20terraform%20code.png)
+
+пункт 2:
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/2.2.png)
+
+пункт 3-4:
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/2.3%20terraform%20code%20docker.png)
+
+пункт 6:
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/2.6.png)
