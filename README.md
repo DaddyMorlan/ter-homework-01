@@ -54,3 +54,9 @@
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/1.8%20docs.png)
 
 keep_locally = true указывает, что image нужно оставить при destroy
+
+# Задание 2
+
+пункт 1:
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/2.1%20terraform%20code.png)
