@@ -66,7 +66,7 @@ keep_locally = true указывает, что image нужно оставить
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/2.2.png)
 
 пункт 3-4:
-
+Забыл убрать example, увидел только когда скрины сюда добавлял :D
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/2.3%20terraform%20code%20docker.png)
 
 пункт 6:
