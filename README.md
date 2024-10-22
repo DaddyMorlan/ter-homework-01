@@ -72,3 +72,13 @@ keep_locally = true указывает, что image нужно оставить
 пункт 6:
 
 ![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/2.6.png)
+
+# Задание 3
+
+Настроил зеркало для реестра
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/3.1%20tofu%20init.png)
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/3.2%20tofu%20apply.png)
+
+![](https://github.com/DaddyMorlan/ter-homework-01/blob/main/terraform-1/3.3%20env.png)
